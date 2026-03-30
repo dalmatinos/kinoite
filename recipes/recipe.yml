@@ -75,7 +75,6 @@ modules:
     remove:
       packages:
         
-
   - type: brew
     nofile-limits: true          # increase nofile limits
     brew-analytics: false        # disable telemetry
