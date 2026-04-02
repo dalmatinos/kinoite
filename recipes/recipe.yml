@@ -22,28 +22,12 @@ modules:
       packages:
         - dnf-plugins-core
         - fastfetch
-        - htop
-        - libvirt
-        - libvirt-nss
         - docker
-        - distrobox
         - podman-compose
         - podman-machine
-        - qemu-char-spice
-        - qemu-device-display-virtio-gpu
-        - qemu-device-display-virtio-vga
-        - qemu-device-usb-redirect
-        - qemu-img
-        - qemu-system-x86-core
-        - qemu-user-binfmt
-        - qemu-user-static
-        - qemu
-        - virt-manager
-        - ublue-os-libvirt-workarounds
         - ublue-os-update-services
         - ublue-brew
-        - steam
-        - steam-devices
+        
         
     remove:
       packages:
