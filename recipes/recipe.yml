@@ -20,11 +20,7 @@ modules:
       
     install:
       packages:
-        - dnf-plugins-core
         - fastfetch
-        - docker
-        - podman-compose
-        - podman-machine
         - ublue-os-update-services
         - ublue-brew
         
