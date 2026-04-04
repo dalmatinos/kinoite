@@ -21,7 +21,7 @@ modules:
     install:
       packages:
         - fastfetch
-        - ublue-os-update-services
+        - podman-docker
         - ublue-brew
         
         
