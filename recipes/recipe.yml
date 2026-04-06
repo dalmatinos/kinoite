@@ -23,7 +23,7 @@ modules:
         - fastfetch
         - podman-docker
         - ublue-brew
-        
+        - VirtualBox
         
     remove:
       packages:
