@@ -23,9 +23,7 @@ modules:
         - fastfetch
         - podman-docker
         - ublue-brew
-        - akmods
-        - VirtualBox
-        - akmod-VirtualBox
+        
         
     remove:
       packages:
