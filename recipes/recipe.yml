@@ -23,6 +23,8 @@ modules:
         - fastfetch
         - podman-docker
         - ublue-brew
+        - gnome-boxes
+        - steam
         
         
     remove:
